@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="IntelligentParkServer">
+    <output-path>D:/</output-path>
+    <root id="archive" name="IntelligentParkServer.war" />
+  </artifact>
+</component>
